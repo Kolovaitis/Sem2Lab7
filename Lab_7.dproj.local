@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.394,=C:\Users\kna20\OneDrive\Документы\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.114,=C:\Users\kna20\OneDrive\Документы\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.402,=C:\Users\kna20\OneDrive\Рабочий стол\Лабораторная 7\2Pac.wav</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.049,=C:\Users\kna20\OneDrive\Рабочий стол\Лабораторная 7\2Pac.mp3</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.598,C:\Users\kna20\OneDrive\Рабочий стол\Лабораторная 7\MainForm.fmx=C:\Users\kna20\OneDrive\Документы\Embarcadero\Studio\Projects\Unit4.fmx</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.115,C:\Users\kna20\OneDrive\Рабочий стол\Лабораторная 7\Lab_7.dproj=C:\Users\kna20\OneDrive\Документы\Embarcadero\Studio\Projects\Project4.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.598,C:\Users\kna20\OneDrive\Документы\Embarcadero\Studio\Projects\Unit4.pas=C:\Users\kna20\OneDrive\Рабочий стол\Лабораторная 7\MainForm.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.808,=C:\Users\kna20\OneDrive\Документы\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.598,C:\Users\kna20\OneDrive\Рабочий стол\Лабораторная 7\MainForm.pas=C:\Users\kna20\OneDrive\Документы\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.115,C:\Users\kna20\OneDrive\Документы\Embarcadero\Studio\Projects\Project4.dproj=C:\Users\kna20\OneDrive\Рабочий стол\Лабораторная 7\Lab_7.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.049,=C:\Users\kna20\OneDrive\Рабочий стол\Лабораторная 7\2Pac.mp3</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.402,=C:\Users\kna20\OneDrive\Рабочий стол\Лабораторная 7\2Pac.wav</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.598,C:\Users\kna20\OneDrive\Документы\Embarcadero\Studio\Projects\Unit4.fmx=C:\Users\kna20\OneDrive\Рабочий стол\Лабораторная 7\MainForm.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.114,=C:\Users\kna20\OneDrive\Документы\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.394,=C:\Users\kna20\OneDrive\Документы\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
 		<NoProfile iOSSimulator="iPhone5"/>

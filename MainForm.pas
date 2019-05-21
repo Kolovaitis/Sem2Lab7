@@ -92,7 +92,7 @@ type
       procedure DrawLine(StartX, StartY, EndX, EndY: Integer; Color: Cardinal);
       procedure AddLine(Line: TLink);
       procedure StartPlaySound();
-      { Public declarations }
+
    end;
 
 var
@@ -199,7 +199,7 @@ begin
       for i := 0 to PointsCount - 1 do
          MIncidence.Lines[i] := IntToStr(i + 1) + ': '
    else
-      for i := 0 to PointsCount - 1 do
+      for i := 0 to MaxPoint - 1 do
          MIncidence.Lines[i] := '';
    MISave.Enabled := false;
 
@@ -230,8 +230,11 @@ begin
      CordY + Diametr / 2));
    with PBGraph.Canvas do
    begin
+
       Fill.Color := ColorWhite;
+
       FillEllipse(PlaceToDraw, StandartOpacity);
+      Fill.Color := Color;
       Stroke.Color := Color;
       Fill.Color := Color;
       DrawEllipse(PlaceToDraw, StandartOpacity);
@@ -335,7 +338,7 @@ begin
       end;
    end;
    SetMatrixLength(2, 1);
-   //PartyMod;
+   PartyMod;
 end;
 
 function TFormMain.GetLinesCount(var InputFile: TextFile): Integer;
@@ -541,6 +544,7 @@ var
    NewPointsCount: Integer;
    NewLinesCount: Integer;
 begin
+
    NewPointsCount := round(SBPoints.Value);
    SBLines.Max := MaxLines[NewPointsCount];
    NewLinesCount := round(SBLines.Value);
