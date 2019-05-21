@@ -1,0 +1,8 @@
+
+*.exe
+*.dcu
+*.nik
+Win32/
+Win64/
+__history/
+__recovery/
